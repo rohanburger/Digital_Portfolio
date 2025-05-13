@@ -1,4 +1,4 @@
-# Digital Portfolio
+# Digital Portfolio of Rohan Janzen Burger (230171990)
 Welcome to my digital portfolio. This document contains the work that was done for our work readiness training
 and my reflection on each of them.
 
