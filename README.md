@@ -1,2 +1,33 @@
-# Digital_Portfolio
-The repository is going to be used to showcase my digital portfolio.
+# Digital Portfolio
+Welcome to my digital portfolio. This document contains the work that was done for our work readiness training
+and my reflection on each of them.
+
+## Table of Contents
+1.[Career Counselling](#career_counselling)
+  - Evidence
+  - Reflection
+
+2.[Skills and Interests](#skills_and_interests)
+  - Evidence
+  - Reflection
+
+3.[Personality Assessment](#personality_assessment)
+  - Evidence
+  - Reflection
+
+4.[Create a CV](#create_a_cv)
+  - Evidence
+  - Reflection
+
+5.[CV Submission](#cv_submission)
+  - Evidence
+  - Reflection
+
+
+## Career Counselling
+### Evidence
+- For the career couselling session we where required to read through the documentation provided to us
+  after the complession of the documentation we where required to write a small quizze regarding Carreer couselling
+ ![Screenshot 2025-05-13 135533](https://github.com/user-attachments/assets/b04b190c-09d4-424e-9c36-8e604c92c462)
+
+
