@@ -71,3 +71,14 @@ and my reflection on each of them.
 - **Action:** I read through the documenation provided and completed the quiz.
 - **Result:** I results of the quiz was 100%.
 
+## CV submission
+### Evidence
+- The CV submission we were required to submit our personal CV to BlackBoard for review.
+- [230171990_Rohan Janzen Burger CV.pdf](https://github.com/user-attachments/files/20188103/230171990_Rohan.Janzen.Burger.CV.pdf)
+
+### Reflection
+- **Situation:** I was required to submit my personal CV for review and to be sent to companies for internships.
+- **Task:** I had to create a proper CV with all the neccessary requirements.
+- **Action:** I completed all the required criteria for the CV , to provide a CV that is up to standard.
+- **Result:** The submssion has not been marked on BB as of yet.
+
