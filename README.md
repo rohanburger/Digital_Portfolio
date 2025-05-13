@@ -23,7 +23,6 @@ and my reflection on each of them.
   - Evidence
   - Reflection
 
-
 ## Career Counselling
 ### Evidence
 - For the career couselling session we where required to read through the documentation provided to us
@@ -32,6 +31,18 @@ and my reflection on each of them.
 
 ### Reflection:
 - **Situation:** The Career counselling documentation was provided to us via BlackBoard.
-- **Task:** The objective of the the session was to infrom regarding our carreers and how to probably develop them.
-- **Action:** I read the documentation , with the intent to understand it and completed the test provided to use regarding the documentation.
+- **Task:** The objective of the the session was to infrom us regarding our carreers and how to probably develop them.
+- **Action:** I read the documentation , with the intent to understand it and completed the quiz provided to use regarding the documentation.
 - **Result:** The result of the Carreer Develpment test was 100%.
+
+## Skills and Interests
+### Evidence
+- The Skills and Intersts session we were given documentation explaining to use the concepts of skills
+  and intersts, after reading through the documentation we were required to write a quiz.
+- ![image](https://github.com/user-attachments/assets/40322456-71ae-4b79-9d94-65089002d017)
+
+### Reflection:
+- **Situation:** The Skills and Interests documentation was provided via BlackBoard by our lecturers 
+- **Task:** The objective of the session was to inform us on skills and intersts.
+- **Action:** I read through the documentation , with the intention of undestanding. I then proceeded to complete the quiz.
+- **Result:** The result of the Skills and Interests test was 100%.
