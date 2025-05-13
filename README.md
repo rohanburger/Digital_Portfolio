@@ -28,6 +28,10 @@ and my reflection on each of them.
 ### Evidence
 - For the career couselling session we where required to read through the documentation provided to us
   after the complession of the documentation we where required to write a small quizze regarding Carreer couselling
- ![Screenshot 2025-05-13 135533](https://github.com/user-attachments/assets/b04b190c-09d4-424e-9c36-8e604c92c462)
+- ![Screenshot 2025-05-13 135533](https://github.com/user-attachments/assets/b04b190c-09d4-424e-9c36-8e604c92c462)
 
-
+### Reflection:
+- **Situation:** The Career counselling documentation was provided to us via BlackBoard.
+- **Task:** The objective of the the session was to infrom regarding our carreers and how to probably develop them.
+- **Action:** I read the documentation , with the intent to understand it and completed the test provided to use regarding the documentation.
+- **Result:** The result of the Carreer Develpment test was 100%.
