@@ -46,3 +46,16 @@ and my reflection on each of them.
 - **Task:** The objective of the session was to inform us on skills and intersts.
 - **Action:** I read through the documentation , with the intention of undestanding. I then proceeded to complete the quiz.
 - **Result:** The result of the Skills and Interests test was 100%.
+
+## Personality Assessment
+### Evidence
+- The Personality assessment session we were provided docucmentation and a test.
+- ![image](https://github.com/user-attachments/assets/18dcc00a-82fa-469c-839b-aa786dcd1371)
+
+
+### Reflection:
+- **Situation:** The Personality assessment documentation was provided to use by our lecturers via BlackBoard 
+- **Task:** The objective of the session was educate us on how to assess out personality.
+- **Action:** I read through the documetation provided to use and completet the quiz.
+- **Result:** The result of the Personality Assessment test was 100%.
+
