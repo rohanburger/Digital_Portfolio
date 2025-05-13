@@ -26,7 +26,7 @@ and my reflection on each of them.
 ## Career Counselling
 ### Evidence
 - For the career couselling session we where required to read through the documentation provided to us
-  after the complession of the documentation we where required to write a small quizze regarding Carreer couselling
+  after the complession of the documentation we where required to write a small quizze regarding Carreer couselling.
 - ![Screenshot 2025-05-13 135533](https://github.com/user-attachments/assets/b04b190c-09d4-424e-9c36-8e604c92c462)
 
 ### Reflection:
@@ -42,7 +42,7 @@ and my reflection on each of them.
 - ![image](https://github.com/user-attachments/assets/40322456-71ae-4b79-9d94-65089002d017)
 
 ### Reflection:
-- **Situation:** The Skills and Interests documentation was provided via BlackBoard by our lecturers 
+- **Situation:** The Skills and Interests documentation was provided via BlackBoard by our lecturers. 
 - **Task:** The objective of the session was to inform us on skills and intersts.
 - **Action:** I read through the documentation , with the intention of undestanding. I then proceeded to complete the quiz.
 - **Result:** The result of the Skills and Interests test was 100%.
@@ -54,8 +54,20 @@ and my reflection on each of them.
 
 
 ### Reflection:
-- **Situation:** The Personality assessment documentation was provided to use by our lecturers via BlackBoard 
+- **Situation:** The Personality assessment documentation was provided to use by our lecturers via BlackBoard.
 - **Task:** The objective of the session was educate us on how to assess out personality.
-- **Action:** I read through the documetation provided to use and completet the quiz.
+- **Action:** I read through the documetation provided to use and completed the quiz.
 - **Result:** The result of the Personality Assessment test was 100%.
+
+## Create a CV
+### Evidence
+- The Create a CV session we were provided documentation.
+- ![image](https://github.com/user-attachments/assets/e9a2f80a-2369-4f16-b667-59aa7b2b45ea)
+
+### Reflection
+- **Situation:** The Create a CV documentation was uploaded onto BlackBoard.
+- **Task:** The objective of the create a cv documenation was to teach us the importance
+  of CV's and how to properly formulate one.
+- **Action:** I read through the documenation provided and completed the quiz.
+- **Result:** I results of the quiz was 100%.
 
